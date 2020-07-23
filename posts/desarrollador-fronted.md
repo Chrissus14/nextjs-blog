@@ -1,0 +1,15 @@
+---
+title: '¿Que es un Desarrollador Front-end?'
+date: '2020-07-22'
+---
+Hoy les he traido este artículo sobre qué es el desarrollo web front-end.
+Mi misión es explicarlo de la manera más simple para que puedan entender y saber si es algo en lo que se quieran dedicar.
+
+Los sitios web están basados en un arquitectura llamada cliente-servidor, en pocas palabras son dos computadoras una es el cliente el cual se conecta a otra computadora que es el servidor a través de un navegador web(también cliente es considerado un teléfono inteligente, una consola de videojuegos, entre otros), el cliente manda peticiones al servidor y este regresa datos.
+
+El desarrollador Front-end es aquel que programa del lado del cliente, ahora quiero dejar bien claro primero que no es el desarrollador Front-end y es una definición muy común que te encontras: “tipos de letra, colores, adaptación para distintas pantallas(RWD), los efectos del ratón, teclado, movimientos, desplazamientos, efectos visuales, el desarrollador front end se encarga de la experiencia del usuario, es decir,  en el momento en el que este entra a una página web, debe ser capaz de navegar por ella, por lo que el usuario verá una interfaz sencilla de usar, atractiva y funcional.” esto es completamente falso; en el ciclo de desarrollo de un sitio web existen varios roles, que juntos crean el sitio como es el diseñador UX/UI, el maquetador web y el programador Front-end. El diseñador es aquel con conocimientos sobre colores, tipografías, formas, etc y normalmente utiliza programas de diseño como Figma. El maquetador pasa el boceto que hizo el diseño a código HTML  y CSS, esta persona se enfoca en tener un conocimiento avanzado en CSS y crear el sitio tal cual lo pasó el diseñador. Y por último el programador Front-end es el que da interactividad al sitio mediante un lenguaje de programación llamado JavaScript y es donde se enfoca más el programador.
+
+A qué me refiero con interactividad, bueno imaginemos que entras a un sitio web donde venden diversos productos, puede ser amazon, buscas un producto, escribes el nombre y te aparecen varias opciones, ¿como es que puedes hacer eso? es porque fue programado por un desarrollador Front-end, imaginemos que encontraste el producto que buscas y quieres agregarlo a tu carrito de compras, para comprarlo despues, das clic en el boton añadir al carrito y magicamente tu producto aparece y ahora tienes 1 producto en el carrito, como sucedió todo eso, fue programado por el desarrollador Front-end, a eso es lo que me refiero con interactividad y obvio esto ejemplos se quedan muy cortos de lo grande que es el desarrollo web Front-end.
+
+Entonces ¿porque razon una empresa pide que el programador sepa maquetar y de diseño?, es muy sencillo de explicar, presupuesto, porque pagar a 3 personas 3 sueldos, si puedes pagar solo a 1 persona un sueldo y que haga el trabajo de los 3 diciendole que es su obligación, pero ese ya será tema de otro día.
+Espero que te alla sido de ayuda este artículo y ahora tengas más claro la labor de un desarrollador web Front-end.

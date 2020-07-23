@@ -24,8 +24,8 @@ export default function Home({ allPostsData }) {
         <p>Hola mi nombre es Christian, soy un desarrollador web Frontend</p>
         <p>
           Si quieres conocer un poco más de mi, te invito a que entre a la
-          sección <Link href="/about">Sobre mi</Link>, donde te contare un poco
-          más sobre mi vida...
+          sección <Link href="/sobre-mi">Sobre mi</Link>, donde te contare un
+          poco más sobre mi vida...
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
